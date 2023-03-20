@@ -1,22 +1,14 @@
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-
+import Navbar from '../src/components/Navbar.js'
+import Home from '../src/components/Home.js'
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p className=''>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="font-bold"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <Home />  
+    </>
   );
 }
 
