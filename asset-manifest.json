@@ -1,7 +1,11 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.14d34505.css",
-    "main.js": "/github-portfolio/static/js/main.1dceb05d.js",
+    "main.css": "/github-portfolio/static/css/main.83fb0151.css",
+    "main.js": "/github-portfolio/static/js/main.304f57e7.js",
+    "static/media/jate.png": "/github-portfolio/static/media/jate.4066ebe7532b22ddd36a.png",
+    "static/media/space.png": "/github-portfolio/static/media/space.e88bf1bc4568846abf3f.png",
+    "static/media/quizgame.png": "/github-portfolio/static/media/quizgame.0a8f4d24e656675dbd58.png",
+    "static/media/quik.png": "/github-portfolio/static/media/quik.9ff1ca4cec240ecc0046.png",
     "static/media/react.png": "/github-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/github-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/github-portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -13,11 +17,11 @@
     "static/media/firebase.png": "/github-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/github-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/github-portfolio/index.html",
-    "main.14d34505.css.map": "/github-portfolio/static/css/main.14d34505.css.map",
-    "main.1dceb05d.js.map": "/github-portfolio/static/js/main.1dceb05d.js.map"
+    "main.83fb0151.css.map": "/github-portfolio/static/css/main.83fb0151.css.map",
+    "main.304f57e7.js.map": "/github-portfolio/static/js/main.304f57e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.14d34505.css",
-    "static/js/main.1dceb05d.js"
+    "static/css/main.83fb0151.css",
+    "static/js/main.304f57e7.js"
   ]
 }
