@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/github-portfolio/static/css/main.83fb0151.css",
-    "main.js": "/github-portfolio/static/js/main.304f57e7.js",
+    "main.css": "/github-portfolio/static/css/main.07a54463.css",
+    "main.js": "/github-portfolio/static/js/main.fc00e609.js",
     "static/media/jate.png": "/github-portfolio/static/media/jate.4066ebe7532b22ddd36a.png",
     "static/media/space.png": "/github-portfolio/static/media/space.e88bf1bc4568846abf3f.png",
     "static/media/quizgame.png": "/github-portfolio/static/media/quizgame.0a8f4d24e656675dbd58.png",
@@ -17,11 +17,11 @@
     "static/media/firebase.png": "/github-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
     "static/media/javascript.png": "/github-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/github-portfolio/index.html",
-    "main.83fb0151.css.map": "/github-portfolio/static/css/main.83fb0151.css.map",
-    "main.304f57e7.js.map": "/github-portfolio/static/js/main.304f57e7.js.map"
+    "main.07a54463.css.map": "/github-portfolio/static/css/main.07a54463.css.map",
+    "main.fc00e609.js.map": "/github-portfolio/static/js/main.fc00e609.js.map"
   },
   "entrypoints": [
-    "static/css/main.83fb0151.css",
-    "static/js/main.304f57e7.js"
+    "static/css/main.07a54463.css",
+    "static/js/main.fc00e609.js"
   ]
 }
