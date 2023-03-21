@@ -103,7 +103,7 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/in/connor-bodin-00/'
             >
-              Linkedin <FaLinkedin size={30} />
+              Linkedin <FaLinkedin className="pr-1" size={35} />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#333333]'>
@@ -111,7 +111,7 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/connorbodin'
             >
-              Github <FaGithub size={30} />
+              Github <FaGithub className="pr-1" size={35}  />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#6fc2b0]'>
@@ -119,7 +119,7 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='mailto:connor.e.bodin@gmail.com'
             >
-              Email <HiOutlineMail size={30} />
+              Email <HiOutlineMail className="pr-1" size={35}  />
             </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-500 bg-[#565f69]'>
@@ -127,7 +127,7 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='/'
             >
-              Resume <BsFillPersonLinesFill size={30} />
+              Resume <BsFillPersonLinesFill className="pr-1" size={35}  />
             </a>
           </li>
         </ul>
