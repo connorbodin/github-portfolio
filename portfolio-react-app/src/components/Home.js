@@ -12,9 +12,12 @@ const Home = () => {
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <p className="text-pink-600">Hi, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] hover:border-b-4 duration-300 ease-in-out  border-pink-600">
+
+        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] hover:border-b-4 duration-300 ease-in-out cursor-pointer border-pink-600"><a href="https://www.linkedin.com/in/connor-bodin-00/">
           Connor Bodin
+          </a>
         </h1>
+        
 
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
           I'm a Full Stack Developer.
