@@ -19,27 +19,27 @@ const Work = () => {
         </div>
 
 {/* container for projects */}
-<div className="grid sm:grid-cols-2 md:grid-cols-2 gap-6">
+<div className="grid sm:grid-cols-2 md:grid-cols-2 gap-6  ">
           
           {/* Gird Item */}
           {project.map((item, index) => (
   <div
     key={index}
     style={{ backgroundImage: `url(${item.image})` }}
-    className="shadow-lg shadow-[#040c16] group container rounded-md 
-              flex justify-center text-center items-center mx-auto content-div bg-cover p-16 h-full"
+    className=" hover:bg-white shadow-lg shadow-[#040c16] group container rounded-md 
+              flex justify-center text-center items-center mx-auto content-div  bg-cover p-16 h-full bg-center  "
   >
     {/* Hover effect for images */}
-    <div className="opacity-0 group-hover:opacity-100 duration-500">
-      <span className="text-2xl text-top font bold text-gray-500 tracking-wider ">
+    <div className="opacity-0 group-hover:opacity-100 duration-500 max-w-full">
+      <span className="text-3xl text-top font bold text-gray-500 tracking-wider ">
         {item.name}
       </span>
-      <div className="pt-11 text-center ">
+      <div className="pt-12 text-center ">
         {/* eslint-disable-next-line */}
         <a href={item.github} target="_blank">
           <button
             className="text-center rounded-lg px-4 py-3 m-2
-                       bg-white text-gray-800 font-bold text-lg"
+                    bg-white text-gray-800 font-bold text-lg"
           >
             Code
           </button>
