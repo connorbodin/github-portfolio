@@ -14,7 +14,7 @@
 
 
 ## General Info
-- A work day scheduler that uses JQUERY to change the attributes of certain HTML objects based on time. 
+- My very own Git portfolio! 
 
 ## Software Used 
 
