@@ -9,6 +9,10 @@ import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Mongo from '../assets/mongo.png';
+import Drupal from '../assets/druplicon-small.png';
+import Bootstrap from '../assets/bootstrap.png';
+import Python from '../assets/python.png';
+import Gitbash from '../assets/gitbash.png';
 
 const Skills = () => {
   return (
@@ -52,6 +56,22 @@ const Skills = () => {
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
                   <p className='my-4'>TAILWIND</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Drupal} alt="HTML icon" />
+                  <p className='my-4'>DRUPAL</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Gitbash} alt="HTML icon" />
+                  <p className='my-4'>GITBASH</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
+                  <p className='my-4'>PYTHON</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Bootstrap} alt="HTML icon" />
+                  <p className='my-4'>BOOTSTRAP</p>
               </div>
           </div>
       </div>
