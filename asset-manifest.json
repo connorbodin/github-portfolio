@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/github-portfolio/static/css/main.4f6a27ee.css",
-    "main.js": "/github-portfolio/static/js/main.e225dfd6.js",
+    "main.js": "/github-portfolio/static/js/main.ed7cef70.js",
     "static/media/jate.png": "/github-portfolio/static/media/jate.4066ebe7532b22ddd36a.png",
     "static/media/space.png": "/github-portfolio/static/media/space.e88bf1bc4568846abf3f.png",
+    "static/media/bootstrap.png": "/github-portfolio/static/media/bootstrap.a692f04a045f8133192d.png",
     "static/media/quizgame.png": "/github-portfolio/static/media/quizgame.0a8f4d24e656675dbd58.png",
+    "static/media/python.png": "/github-portfolio/static/media/python.1b9de615331ee4d8c795.png",
     "static/media/quik.png": "/github-portfolio/static/media/quik.9ff1ca4cec240ecc0046.png",
     "static/media/react.png": "/github-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/github-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
@@ -15,13 +17,14 @@
     "static/media/tailwind.png": "/github-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/github-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/firebase.png": "/github-portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/druplicon-small.png": "/github-portfolio/static/media/druplicon-small.17ad6f8dca87032acc30.png",
     "static/media/javascript.png": "/github-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/github-portfolio/index.html",
     "main.4f6a27ee.css.map": "/github-portfolio/static/css/main.4f6a27ee.css.map",
-    "main.e225dfd6.js.map": "/github-portfolio/static/js/main.e225dfd6.js.map"
+    "main.ed7cef70.js.map": "/github-portfolio/static/js/main.ed7cef70.js.map"
   },
   "entrypoints": [
     "static/css/main.4f6a27ee.css",
-    "static/js/main.e225dfd6.js"
+    "static/js/main.ed7cef70.js"
   ]
 }
