@@ -6,15 +6,11 @@ const About = () => {
   return (
     <div name="about" className="w-full h-screen bg-[#0a192f]">
       {/* Container */}
-      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-pink-600">Hi, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] hover:border-b-4 duration-300 ease-in-out  border-pink-600">
+      <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">\
+      <div className="border-b-4 border-r-4 border-pink-600 p-12 hover:border-pink-400 duration-300 rounded">
+        <h1 className="text-4xl sm:text-7xl font-bold text-[#ccd6f6] ">
           Connor Bodin
         </h1>
-
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Full Stack Developer.
-        </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           Hi there! I am a junior web developer. I
           am passionate about creating engaging and interactive web experiences
@@ -37,7 +33,7 @@ const About = () => {
           professionally. I am excited to continue developing my web development
           skills, as well as exploring new interests and hobbies along the way.
         </p>
-        <div></div>
+        </div>
       </div>
     </div>
   );
